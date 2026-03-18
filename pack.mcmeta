@@ -1,6 +1,8 @@
 ﻿{
   "pack": {
-    "pack_format": 8,
-    "description": "custom resource pack for the gamers.inc server"
+    "description": "gamers.inc resource pack",
+    "min_format": 75,
+    "max_format": 75,
+    "pack_format": 75
   }
 }
